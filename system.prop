@@ -1,0 +1,2 @@
+ro.hardware=mt6752
+service.adb.root=1

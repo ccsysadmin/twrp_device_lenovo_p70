@@ -1,0 +1,3 @@
+add_lunch_combo lineage_p70-eng
+add_lunch_combo lineage_p70-user
+add_lunch_combo lineage_p70-userdebug
